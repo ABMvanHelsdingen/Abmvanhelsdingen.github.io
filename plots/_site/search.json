@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Alec van Helsdingen",
+    "section": "",
+    "text": "I recently completed a PhD student in statistics at the University of Auckland, focusing on stochastic processes and ecology.\nA large part of my thesis is devoted to Spatial Capture-Recapture (SCR) models, which are widely used for estimating the size of animal populations. My work modifies SCR models to better account for the movement of individual animals in camera trapping surveys. Another focus has been modelling temporal point patterns where there is dependence between points (i.e. the Poisson assumptions are inappropriate). The times of whale cues served as a motivation, since these tend to be more “metronomic” than otherwise expected.\nI’ve also worked with Hidden Markov Models (HMMs) and problems in operations research such as integer programming.\nThis website contains my election forecasts for New Zealand, the Netherlands and Ireland.\nI’m also a genealogist and genetic genealogist, and have another website with transcription of Dutch historical records."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "nz.html",
+    "href": "nz.html",
+    "title": "New Zealand",
+    "section": "",
+    "text": "Last Updated: 6 November 2026"
+  },
+  {
+    "objectID": "nz.html#seat-predictions",
+    "href": "nz.html#seat-predictions",
+    "title": "New Zealand",
+    "section": "Seat Predictions",
+    "text": "Seat Predictions"
+  },
+  {
+    "objectID": "nz.html#government-formation",
+    "href": "nz.html#government-formation",
+    "title": "New Zealand",
+    "section": "Government Formation",
+    "text": "Government Formation\nWe consider eight possible outcomes for government formation, from Labour winning a majority on its own, to National doing the same. We do not consider the possibility of coalitions between parties in the current government and current opposition. Every possible election result, assuming no other parties win seats and that National or Labour will lead the next government, falls into exactly one of these outcomes."
+  },
+  {
+    "objectID": "nz.html#party-vote-since-last-election",
+    "href": "nz.html#party-vote-since-last-election",
+    "title": "New Zealand",
+    "section": "Party Vote since Last Election",
+    "text": "Party Vote since Last Election\nThe lines show expected party vote, and the shaded regions the 90% credible interval, for each week since the 2023 election."
+  },
+  {
+    "objectID": "nz.html#seat-distributions",
+    "href": "nz.html#seat-distributions",
+    "title": "New Zealand",
+    "section": "Seat Distributions",
+    "text": "Seat Distributions\nThe interactive histograms below show the predicted number of seats for all six parties, the plausible coalitions considered above and the total number of MPs in Parliament."
+  },
+  {
+    "objectID": "nz.html#electorate-projections",
+    "href": "nz.html#electorate-projections",
+    "title": "New Zealand",
+    "section": "Electorate Projections",
+    "text": "Electorate Projections\nPredictions for each electorate are shown below. The button in the top right corner toggles between General and Māori electorates. These predictions do not account for the strength of individual candidates- see our  methodology page  for further details.\n\nElectorate Boundaries from Stats NZ"
+  },
+  {
+    "objectID": "nl.html",
+    "href": "nl.html",
+    "title": "Netherlands",
+    "section": "",
+    "text": "Last Updated: 20 October 2026"
+  },
+  {
+    "objectID": "nl.html#party-support-over-last-24-months",
+    "href": "nl.html#party-support-over-last-24-months",
+    "title": "Netherlands",
+    "section": "Party Support over last 24 Months",
+    "text": "Party Support over last 24 Months"
+  },
+  {
+    "objectID": "nl.html#composition-of-the-tweede-kamer",
+    "href": "nl.html#composition-of-the-tweede-kamer",
+    "title": "Netherlands",
+    "section": "Composition of the Tweede Kamer",
+    "text": "Composition of the Tweede Kamer"
+  },
+  {
+    "objectID": "nl.html#support-by-bloc",
+    "href": "nl.html#support-by-bloc",
+    "title": "Netherlands",
+    "section": "Support by Bloc",
+    "text": "Support by Bloc"
+  },
+  {
+    "objectID": "nl.html#government-formation",
+    "href": "nl.html#government-formation",
+    "title": "Netherlands",
+    "section": "Government Formation",
+    "text": "Government Formation\nBelow are the coalitions with the highest probability of being feasible-see the Methodology page for more details. This assumes that a majority government will be formed.\n&lt;iframe src=“https://docs.google.com/spreadsheets/d/e/2PACX-1vRoXWV-dumjdo9mipO-QKChEmsQr6U2n9PL16MxdMiZ4Ri1Di1tBl1tHbuZQUN-nK9jxNiVsn00RjHz/pubhtml?widget=false&amp;headers=false” width=700 height=350&gt;&lt;/iframe&gt;"
+  },
+  {
+    "objectID": "nl.html#interactive-map",
+    "href": "nl.html#interactive-map",
+    "title": "Netherlands",
+    "section": "Interactive Map",
+    "text": "Interactive Map\n        \nSource for gemeente boundaries: cbsodataR package"
+  },
+  {
+    "objectID": "ireland.html",
+    "href": "ireland.html",
+    "title": "Ireland",
+    "section": "",
+    "text": "Last Updated: 17 May 2026"
+  },
+  {
+    "objectID": "ireland.html#summary",
+    "href": "ireland.html#summary",
+    "title": "Ireland",
+    "section": "Summary",
+    "text": "Summary\n\n\n\n\n\n\n\n\n\n\nParty\nProjected Seats\nProjected Votes\n2024 Seats\n2024 Votes\n\n\n\n\nSinn Féin\n48\n23.1%\n39\n19.0%\n\n\nFianna Fáil\n35\n17.1%\n48\n21.9%\n\n\nFine Gael\n32\n17.0%\n38\n20.9%\n\n\nSocial Democrats\n20\n8.7%\n11\n4.8%\n\n\nIndependents/Others\n16\n11.5%\n17\n13.0%\n\n\nIndependent Ireland\n9\n6.7%\n4\n3.6%\n\n\nAontú\n7\n6.1%\n2\n3.9%\n\n\nLabour\n6\n4.1%\n11\n4.7%\n\n\nGreens\n0\n3.0%\n1\n3.0%\n\n\nSolidarity/PBP\n0\n2.6%\n3\n2.8%"
+  },
+  {
+    "objectID": "ireland.html#composition-of-the-tweede-kamer",
+    "href": "ireland.html#composition-of-the-tweede-kamer",
+    "title": "Ireland",
+    "section": "Composition of the Tweede Kamer",
+    "text": "Composition of the Tweede Kamer"
+  },
+  {
+    "objectID": "ireland.html#support-by-bloc",
+    "href": "ireland.html#support-by-bloc",
+    "title": "Ireland",
+    "section": "Support by Bloc",
+    "text": "Support by Bloc"
+  },
+  {
+    "objectID": "ireland.html#government-formation",
+    "href": "ireland.html#government-formation",
+    "title": "Ireland",
+    "section": "Government Formation",
+    "text": "Government Formation\nBelow are the coalitions with the highest probability of being feasible-see the Methodology page for more details. This assumes that a majority government will be formed."
+  },
+  {
+    "objectID": "ireland.html#interactive-map",
+    "href": "ireland.html#interactive-map",
+    "title": "Ireland",
+    "section": "Interactive Map",
+    "text": "Interactive Map\n        \nSource for gemeente boundaries: cbsodataR package\n\n\n\nDefault\nLeft\nRight\nCenter\n\n\n\n\n12\n12\n12\n12\n\n\n123\n123\n123\n123\n\n\n1\n1\n1\n1"
+  }
+]
