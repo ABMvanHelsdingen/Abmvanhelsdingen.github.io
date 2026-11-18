@@ -74,7 +74,7 @@
     "href": "nz.html#electorate-projections",
     "title": "New Zealand",
     "section": "Electorate Projections",
-    "text": "Electorate Projections\nPredictions for each electorate are shown below. The button in the top right corner toggles between General and Māori electorates. These predictions do not account for the strength of individual candidates- see our  methodology page  for further details.\n\nElectorate Boundaries from Stats NZ"
+    "text": "Electorate Projections\nPredictions for each general and Māori electorate are shown below. These predictions do not account for the strength of individual candidates- see our  methodology page  for further details.\n\nElectorate Boundaries from Stats NZ"
   },
   {
     "objectID": "about.html",
@@ -88,14 +88,14 @@
     "href": "ireland.html",
     "title": "Ireland",
     "section": "",
-    "text": "Last Updated: 17 May 2026"
+    "text": "Last Updated: 18 November 2026"
   },
   {
     "objectID": "ireland.html#summary",
     "href": "ireland.html#summary",
     "title": "Ireland",
     "section": "Summary",
-    "text": "Summary\n\n\n\n\n\n\n\n\n\n\nParty\nProjected Seats\nProjected Votes\n2024 Seats\n2024 Votes\n\n\n\n\nSinn Féin\n48\n23.1%\n39\n19.0%\n\n\nFianna Fáil\n35\n17.1%\n48\n21.9%\n\n\nFine Gael\n32\n17.0%\n38\n20.9%\n\n\nSocial Democrats\n20\n8.7%\n11\n4.8%\n\n\nIndependents/Others\n16\n11.5%\n17\n13.0%\n\n\nIndependent Ireland\n9\n6.7%\n4\n3.6%\n\n\nAontú\n7\n6.1%\n2\n3.9%\n\n\nLabour\n6\n4.1%\n11\n4.7%\n\n\nGreens\n0\n3.0%\n1\n3.0%\n\n\nSolidarity/PBP\n0\n2.6%\n3\n2.8%"
+    "text": "Summary\n\n\n\n\n\n\n\n\n\n\nParty\nProjected Seats\nProjected Votes\n2024 Seats\n2024 Votes\n\n\n\n\nSinn Féin\n44\n21.2%\n39\n19.0%\n\n\nFine Gael\n35\n17.3%\n38\n20.9%\n\n\nFianna Fáil\n31\n16.2%\n48\n21.9%\n\n\nSocial Democrats\n22\n10.1%\n11\n4.8%\n\n\nAontú\n13\n7.7%\n2\n3.9%\n\n\nIndependents/Others\n11\n11.4%\n17\n13.0%\n\n\nIndependent Ireland\n10\n6.5%\n4\n3.6%\n\n\nLabour\n5\n3.6%\n11\n4.7%\n\n\nSolidarity/PBP\n2\n3.2%\n3\n2.8%\n\n\nGreens\n0\n3.0%\n1\n3.0%"
   },
   {
     "objectID": "nl.html#interactive-map",
@@ -173,5 +173,12 @@
     "title": "New Zealand",
     "section": "Seat Prediction",
     "text": "Seat Prediction"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Alec van Helsdingen",
+    "section": "",
+    "text": "I recently completed a PhD student in statistics at the University of Auckland, focusing on stochastic processes and ecology.\nA large part of my thesis is devoted to Spatial Capture-Recapture (SCR) models, which are widely used for estimating the size of animal populations. My work modifies SCR models to better account for the movement of individual animals in camera trapping surveys. Another focus has been modelling temporal point patterns where there is dependence between points (i.e. the Poisson assumptions are inappropriate). The times of whale cues served as a motivation, since these tend to be more “metronomic” than otherwise expected.\nI’ve also worked with Hidden Markov Models (HMMs) and problems in operations research such as integer programming.\nThis website contains my election forecasts for New Zealand, the Netherlands and Ireland.\nI’m also a genealogist and genetic genealogist, and have another website with transcription of Dutch historical records."
   }
 ]
